@@ -1,0 +1,3 @@
+../Core/Src/protocol.c:17:9:CalcCRC8	24	static
+../Core/Src/protocol.c:32:6:Send_Telemetry	24	static
+../Core/Src/protocol.c:55:9:Parse_Packet	48	static
